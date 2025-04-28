@@ -10,3 +10,7 @@ venv/
 
 # Google Sheets API JSON file
 google-sheets-api.json
+
+# Files
+products.csv
+submission.txt
