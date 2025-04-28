@@ -142,4 +142,4 @@ The scraped data includes the following fields:
 ## Acknowledgments
 
 - [Fashion Studio](https://fashion-studio.dicoding.dev/) for providing the data source
-- Dicoding for hosting the Fashion Studio website
+- [Dicoding](https://www.dicoding.com/) for hosting the Fashion Studio website
